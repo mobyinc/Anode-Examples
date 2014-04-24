@@ -1,0 +1,14 @@
+PODS:
+  - Anode (1.0.0)
+
+DEPENDENCIES:
+  - Anode (from `https://github.com/mobyinc/Anode.git`)
+
+EXTERNAL SOURCES:
+  Anode:
+    :git: https://github.com/mobyinc/Anode.git
+
+SPEC CHECKSUMS:
+  Anode: 2d0b2098cc5e555f1e1ff98ad43521409d237549
+
+COCOAPODS: 0.32.1
